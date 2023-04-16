@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MathApp/1.0.0": {
+        "dependencies": {
+          "MathFunc": "1.0.0"
+        },
+        "runtime": {
+          "MathApp.dll": {}
+        }
+      },
+      "MathFunc/1.0.0": {
+        "runtime": {
+          "MathFunc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathFunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

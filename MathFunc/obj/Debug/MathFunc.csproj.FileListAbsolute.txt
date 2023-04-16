@@ -1,0 +1,6 @@
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\bin\Debug\MathFunc.dll
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\bin\Debug\MathFunc.pdb
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\obj\Debug\MathFunc.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\obj\Debug\MathFunc.csproj.CoreCompileInputs.cache
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\obj\Debug\MathFunc.dll
+C:\Users\kymifBSM\source\repos\MathApp\MathFunc\obj\Debug\MathFunc.pdb
